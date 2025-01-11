@@ -1,5 +1,5 @@
-# Suckless Tools
-## A collection of useful suckless software and self written tools
+# Tiny Tools
+## A collection of useful light-weight software and tools
 This contains a mixture of my own tools and 3rd party ones. The aim of this project is to have a complete useable system as I develop them. I plan to replace all the 3rd party ones over time.
 
 ## Tools
